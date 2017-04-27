@@ -34,14 +34,14 @@ The HTML version of the notebook:
 The output (lane marked) of test images: 
 [lane marked test images](/output_images)
 
-Lanemarked Video output:
+Lane marked Video output:
 ---
 
-(lane marked video][/video_lane_marked.mp4]
+[lane marked video](/video_lane_marked.mp4)
 
-Challenge Lanemarked Video output:
+Challenge Lane marked Video output:
 ---
 
-(Challenge lane marked video][/challenge_lane_marked.mp4]
+[Challenge lane marked video](/challenge_lane_marked.mp4)
 
 
