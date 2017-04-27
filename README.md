@@ -37,11 +37,11 @@ The output (lane marked) of test images:
 Lanemarked Video output:
 ---
 
-(lane marked video](/video_lane_marked.mp4)
+(lane marked video][/video_lane_marked.mp4]
 
 Challenge Lanemarked Video output:
 ---
 
-(Challenge lane marked video](/challenge_lane_marked.mp4)
+(Challenge lane marked video][/challenge_lane_marked.mp4]
 
 
